@@ -2,12 +2,12 @@ import { initializeApp } from 'firebase/app'
 import { getFirestore } from 'firebase/firestore'
 
 const firebaseConfig = {
-  apiKey:            "PASTE_YOUR_API_KEY_HERE",
-  authDomain:        "PASTE_YOUR_AUTH_DOMAIN_HERE",
-  projectId:         "PASTE_YOUR_PROJECT_ID_HERE",
-  storageBucket:     "PASTE_YOUR_STORAGE_BUCKET_HERE",
-  messagingSenderId: "PASTE_YOUR_MESSAGING_SENDER_ID_HERE",
-  appId:             "PASTE_YOUR_APP_ID_HERE",
+  apiKey:            "AIzaSyA6FejWslSziJdR1nEOTLv79SPwrdKc-QM",
+  authDomain:        "heiskill-baby-c7893.firebaseapp.com",
+  projectId:         "heiskill-baby-c7893",
+  storageBucket:     "heiskill-baby-c7893.firebasestorage.app",
+  messagingSenderId: "83060210595",
+  appId:             "1:83060210595:web:56ca5c81b8a0094286f816",
 }
 
 const app = initializeApp(firebaseConfig)
